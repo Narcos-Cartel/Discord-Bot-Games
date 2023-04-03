@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="500" height="200" src="https://i.imgur.com/kp1ADq3.png">
-</p>
-
 # Discord Bot Games
 
 This is a Discord bot that includes three games: Mines, Rock-Paper-Scissors, and TicTacToe.
@@ -30,5 +26,5 @@ To use the Discord commands, copy the code in your files:
 
 ## Credits
 
-This project was created by Enyons. If you have any questions or feedback, please reach out to me. Discord: enyons#3474.
+This project was created by Enyons. If you have any questions or feedback, please reach out to me. Discord: 'enyons#3474'.
 
