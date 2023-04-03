@@ -26,5 +26,5 @@ To use the Discord commands, copy the code in your files:
 
 ## Credits
 
-This project was created by Enyons. If you have any questions or feedback, please reach out to me. Discord: 'enyons#3474'.
+This project was created by Enyons. If you have any questions or feedback, please reach out to me. Discord: `enyons#3474`.
 
